@@ -1,4 +1,4 @@
-#React Pizza App
+# React Pizza App
 
 React pizza app is a Single Page Application(SPA).
 It is build using various libraries including,
